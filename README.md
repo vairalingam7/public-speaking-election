@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>public speaking</title>
+    <title></title>
 
     <!-- Mobile screen support -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -50,8 +49,6 @@
 <body>
 
 <div class="container">
-    <h1>My Responsive Website</h1>
-    <p>This adjusts automatically to screen size!</p>
 
     <!-- ✅ IMAGE LINK GOES HERE -->
     <img src="Democracy in action_ India's electoral power.png" 
