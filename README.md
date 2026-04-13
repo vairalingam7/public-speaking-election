@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Responsive Page</title>
+    <title>public speaking</title>
 
     <!-- Mobile screen support -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -54,8 +54,8 @@
     <p>This adjusts automatically to screen size!</p>
 
     <!-- ✅ IMAGE LINK GOES HERE -->
-    <img src="https://raw.githubusercontent.com/username/repo/main/photo.png" 
-         alt="My Image">
+    <img src="Democracy in action_ India's electoral power.png" 
+         alt="public speaking">
 
 </div>
 
